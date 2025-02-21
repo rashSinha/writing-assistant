@@ -21,7 +21,7 @@ A Django-based web application that offers AI-powered writing assistance. This a
 
    ```bash
    git clone https://github.com/rashSinha/writing-assistant.git
-   cd your-repo-name
+   cd writing-assistant
 
 2. **Create and activate a virtual environment:**
 
