@@ -62,6 +62,8 @@ To start the Django development server, run:
 
 Then, open your browser and navigate to `http://127.0.0.1:8000/` to see the application in action.
 
+## Live Version available [here](https://writing-assistant-eakz.onrender.com)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
